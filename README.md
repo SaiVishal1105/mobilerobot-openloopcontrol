@@ -100,7 +100,6 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
 ![Alt text](img1.jpg)
 ![Alt text](img2.jpg)
 ![Alt text](img3.jpg)
